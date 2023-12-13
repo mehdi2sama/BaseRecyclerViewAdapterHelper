@@ -14,7 +14,7 @@ Thumbs.db
 *.dex
 
 # Java class files
-*.class
+*.classt application files
 
 # Generated files
 bin/
